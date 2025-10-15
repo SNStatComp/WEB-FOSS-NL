@@ -1,0 +1,9 @@
+[submodule "webtextclassifier"]
+	path = webtextclassifier
+	url = https://github.com/SNStatComp/webtextclassifier.git
+[submodule "webfocusedscrape"]
+	path = webfocusedscrape
+	url = https://github.com/SNStatComp/webfocusedscrape.git
+[submodule "urlfinding"]
+	path = urlfinding
+	url = https://github.com/SNStatComp/urlfinding.git
